@@ -1,0 +1,15 @@
+[project]
+name = "chatbot-bank"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "docling>=2.8.3",
+    "langchain>=0.3.9",
+    "loguru>=0.7.3",
+    "pymupdf4llm>=0.0.17",
+    "scrapy-proxies>=0.4",
+    "scrapy-user-agents>=0.1.1",
+    "scrapy>=2.12.0",
+]
