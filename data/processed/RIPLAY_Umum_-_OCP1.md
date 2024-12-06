@@ -15,26 +15,25 @@ Kumpulan
 yang menjalani Rawat Inap, Rawat Jalan, Pembedahan dan Manfaat Melahirkan di Rumah Sakit yang diakibatkan
 oleh Penyakit maupun Kecelakaan.
 
-|Nama Penerbit|PT BNI Life Insurance|Jenis Produk|Tradisional – Hospital Cash Plan Kumpulan|
-|---|---|---|---|
-|Nama Produk|BNI Life Optima Cash Plan|Mata Uang|Rupiah|
+| Nama Penerbit | PT BNI Life Insurance     | Jenis Produk | Tradisional – Hospital Cash Plan Kumpulan |
+| ------------- | ------------------------- | ------------ | ----------------------------------------- |
+| Nama Produk   | BNI Life Optima Cash Plan | Mata Uang    | Rupiah                                    |
 
-|Col1|Fitur Utama Asuransi|
-|---|---|
-|Usia Masuk Peserta|Anak-anak : 6 bulan – 16 tahun Dewasa : 17 tahun – 70 tahun (Dapat diperpanjang sampai dengan usia 74 tahun)|
-|Masa Asuransi|1 tahunan (YRT) dan dapat diperpanjang sampai dengan usia Tertanggung 74 tahun Perpanjangan Polis mengikuti ketentuan yang berlaku (tidak automatic renewal)|
-|Cara Pembayaran Premi Sekaligus dan angsuran||
-|Ketentuan Underwriting|Syarat Kepesertaan: • Peserta merupakan karyawan yang bekerja aktif dan dalam kondisi yang sehat serta tidak melakukan aktivitas yang berbahaya • Minimum peserta adalah 5 orang dengan ketentuan minimal 2 orang adalah karyawan • Karyawan dengan jabatan/posisi yang sama harus mendapatkan manfaat yang setara • Perusahaan wajib mendaftarkan karyawan yang memenuhi syarat untuk mengikuti program ini • Perusahaan wajib mendaftarkan keluarga inti karyawan yang memenuhi syarat untuk mengikuti program ini • Usia masuk peserta: 6 bulan – 70 tahun • Guaranteed Acceptance, tidak diperlukan medical check-up • Pertanggungan akan diperpanjang selama memenuhi ketentuan dan premi dibayarkan oleh Perusahaan • Peserta akan mendapatkan Kartu/Sertifikat BNI Life Optima Cash Plan sebagai Tanda Kepesertaan Pembatalan Kepesertaan: 1. Kepesertaan Karyawan • Perlindungan asuransi berakhir • Pemutusan hubungan kerja Karyawan pada perusahaan • Pembayaran Premi untuk perlindungan Karyawan dibatalkan • Pembatalan oleh Pemegang Polis dan atau Penanggung • Karyawan pensiun • Karyawan meninggal dunia|
-
+| Col1                                         | Fitur Utama Asuransi                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Usia Masuk Peserta                           | Anak-anak : 6 bulan – 16 tahun Dewasa : 17 tahun – 70 tahun (Dapat diperpanjang sampai dengan usia 74 tahun)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Masa Asuransi                                | 1 tahunan (YRT) dan dapat diperpanjang sampai dengan usia Tertanggung 74 tahun Perpanjangan Polis mengikuti ketentuan yang berlaku (tidak automatic renewal)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Cara Pembayaran Premi Sekaligus dan angsuran |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Ketentuan Underwriting                       | Syarat Kepesertaan: • Peserta merupakan karyawan yang bekerja aktif dan dalam kondisi yang sehat serta tidak melakukan aktivitas yang berbahaya • Minimum peserta adalah 5 orang dengan ketentuan minimal 2 orang adalah karyawan • Karyawan dengan jabatan/posisi yang sama harus mendapatkan manfaat yang setara • Perusahaan wajib mendaftarkan karyawan yang memenuhi syarat untuk mengikuti program ini • Perusahaan wajib mendaftarkan keluarga inti karyawan yang memenuhi syarat untuk mengikuti program ini • Usia masuk peserta: 6 bulan – 70 tahun • Guaranteed Acceptance, tidak diperlukan medical check-up • Pertanggungan akan diperpanjang selama memenuhi ketentuan dan premi dibayarkan oleh Perusahaan • Peserta akan mendapatkan Kartu/Sertifikat BNI Life Optima Cash Plan sebagai Tanda Kepesertaan Pembatalan Kepesertaan: 1. Kepesertaan Karyawan • Perlindungan asuransi berakhir • Pemutusan hubungan kerja Karyawan pada perusahaan • Pembayaran Premi untuk perlindungan Karyawan dibatalkan • Pembatalan oleh Pemegang Polis dan atau Penanggung • Karyawan pensiun • Karyawan meninggal dunia |
 
 **BNI Life Optima Cash Plan**
 
-
------
+---
 
 **2.** **Kepesertaan Keluarga Inti Karyawan**
 
                - Karyawan bukan merupakan karyawan/Direksi/Komisaris lagi dari
+
 Pemegang Polis
 
                - Perlindungan asuransi berakhir
@@ -44,10 +43,12 @@ Pemegang Polis
 **Penambahan/Pengurangan Peserta:**
 
              - Penambahan/Pengurangan Tertanggung hanya berlaku untuk Karyawan/Anggota
+
 baru atau anggota keluarga dari Karyawan/Anggota yang didaftarkan
 (penambahan) atau dilaporkan (pengurangan) oleh Pemegang Polis
 
              - Perhitungan penambahan/pengembalian premi mengikuti ketentuan yang
+
 berlaku (detail pada Polis)
 
 **Manfaat Asuransi BNI Life Optima Cash Plan**
@@ -71,6 +72,7 @@ _Menggunakan mekanisme reimbursement_
 _Tersedia pilihan mulai 60 hari sampai dengan maksimal 365 hari dalam 1 (satu) tahun Polis_
 
 **Asuransi tambahan**
+
 1. Manfaat Rawat Jalan:
 
 Santunan Rawat Jalan akibat sakit dan kecelakaan.
@@ -95,40 +97,39 @@ _Menggunakan mekanisme reimbursement_
 Santunan dana untuk tindakan pembedahan akibat sakit dan kecelakaan jika Tertanggung mengalami risiko
 pembedahan yang dibagi dalam 4 kategori bedah, yaitu:
 
-|Col1|2. Kepesertaan Keluarga Inti Karyawan • Karyawan bukan merupakan karyawan/Direksi/Komisaris lagi dari Pemegang Polis • Perlindungan asuransi berakhir • Istri/suami dari Karyawan bercerai Penambahan/Pengurangan Peserta: • Penambahan/Pengurangan Tertanggung hanya berlaku untuk Karyawan/Anggota baru atau anggota keluarga dari Karyawan/Anggota yang didaftarkan (penambahan) atau dilaporkan (pengurangan) oleh Pemegang Polis • Perhitungan penambahan/pengembalian premi mengikuti ketentuan yang berlaku (detail pada Polis)|
-|---|---|
+| Col1 | 2. Kepesertaan Keluarga Inti Karyawan • Karyawan bukan merupakan karyawan/Direksi/Komisaris lagi dari Pemegang Polis • Perlindungan asuransi berakhir • Istri/suami dari Karyawan bercerai Penambahan/Pengurangan Peserta: • Penambahan/Pengurangan Tertanggung hanya berlaku untuk Karyawan/Anggota baru atau anggota keluarga dari Karyawan/Anggota yang didaftarkan (penambahan) atau dilaporkan (pengurangan) oleh Pemegang Polis • Perhitungan penambahan/pengembalian premi mengikuti ketentuan yang berlaku (detail pada Polis) |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-|MANFAAT|PLAN|Col3|Col4|Col5|Col6|
-|---|---|---|---|---|---|
-||RI-250|RI-500|RI-750|RI-1000|RI-1500|
-|Santunan harian Rawat Inap (Rp.)|250,000|500,000|750,000|1,000,000|1,500,000|
+| MANFAAT                          | PLAN    | Col3    | Col4    | Col5      | Col6      |
+| -------------------------------- | ------- | ------- | ------- | --------- | --------- |
+|                                  | RI-250  | RI-500  | RI-750  | RI-1000   | RI-1500   |
+| Santunan harian Rawat Inap (Rp.) | 250,000 | 500,000 | 750,000 | 1,000,000 | 1,500,000 |
 
-|MANFAAT|PLAN|Col3|Col4|Col5|Col6|
-|---|---|---|---|---|---|
-||RJ-250|RJ-500|RJ-750|RJ-1000|RJ-1500|
-|Santunan Rawat Jalan|500,000|1,000,000|1,500,000|2,000,000|3,000,000|
+| MANFAAT              | PLAN    | Col3      | Col4      | Col5      | Col6      |
+| -------------------- | ------- | --------- | --------- | --------- | --------- |
+|                      | RJ-250  | RJ-500    | RJ-750    | RJ-1000   | RJ-1500   |
+| Santunan Rawat Jalan | 500,000 | 1,000,000 | 1,500,000 | 2,000,000 | 3,000,000 |
 
+---
 
------
-
-   - Bedah kecil, besar manfaat yang dapat di klaim adalah sebesar kuitansi dengan maksimum manfaat per case
+- Bedah kecil, besar manfaat yang dapat di klaim adalah sebesar kuitansi dengan maksimum manfaat per case
 
 dan per tahun sebesar 15 kali manfaat santunan harian rawat inap
 
-   - Bedah Sedang, besar manfaat yang dapat di klaim adalah sebesar kuitansi dengan maksimum manfaat per
+- Bedah Sedang, besar manfaat yang dapat di klaim adalah sebesar kuitansi dengan maksimum manfaat per
 
 case dan per tahun sebesar 30 kali manfaat santunan harian rawat inap
 
-   - Bedah Besar, besar manfaat yang dapat di klaim adalah sebesar kuitansi dengan maksimum manfaat per case
+- Bedah Besar, besar manfaat yang dapat di klaim adalah sebesar kuitansi dengan maksimum manfaat per case
 
 dan per tahun sebesar 50 kali manfaat santunan harian rawat inap
 
-   - Bedah Kompleks, besar manfaat yang dapat di klaim adalah sebesar kuitansi dengan maksimum manfaat per
+- Bedah Kompleks, besar manfaat yang dapat di klaim adalah sebesar kuitansi dengan maksimum manfaat per
 
 case dan per tahun sebesar 100 kali manfaat santunan harian rawat inap
 
-   - Terdapat batas manfaat tahunan (total) dengan maksimum sebesar manfaat bedah kompleks
-Tabel Paket Standar Manfaat Santunan Pembedahan
+- Terdapat batas manfaat tahunan (total) dengan maksimum sebesar manfaat bedah kompleks
+  Tabel Paket Standar Manfaat Santunan Pembedahan
 
 **PLAN**
 **MANFAAT**
@@ -161,22 +162,20 @@ _Santunan Melahirkan bersifat lump sum benefit dan berlaku ketentuan masa tunggu
 Risiko yang mungkin terjadi dalam membeli produk BNI Life Optima Cash Plan adalah risiko individual, antara lain
 terdapat potensi kerugian yang lebih besar jika klaim melebihi manfaat yang seharusnya diterima.
 
-|MANFAAT|PLAN|Col3|Col4|Col5|Col6|
-|---|---|---|---|---|---|
-||OP-250|OP-500|OP-750|OP-1000|OP-1500|
-|Bedah Kecil (Rp.)|3,750,000|7,500,000|11,250,000|15,000,000|22,500,000|
-|Bedah Sedang (Rp.)|7,500,000|15,000,000|22,500,000|30,000,000|45,000,000|
-|Bedah Besar (Rp.)|12,500,000|25,000,000|37,500,000|50,000,000|75,000,000|
-|Bedah Kompleks (Rp.)|25,000,000|50,000,000|75,000,000|100,000,000|150,000,000|
+| MANFAAT              | PLAN       | Col3       | Col4       | Col5        | Col6        |
+| -------------------- | ---------- | ---------- | ---------- | ----------- | ----------- |
+|                      | OP-250     | OP-500     | OP-750     | OP-1000     | OP-1500     |
+| Bedah Kecil (Rp.)    | 3,750,000  | 7,500,000  | 11,250,000 | 15,000,000  | 22,500,000  |
+| Bedah Sedang (Rp.)   | 7,500,000  | 15,000,000 | 22,500,000 | 30,000,000  | 45,000,000  |
+| Bedah Besar (Rp.)    | 12,500,000 | 25,000,000 | 37,500,000 | 50,000,000  | 75,000,000  |
+| Bedah Kompleks (Rp.) | 25,000,000 | 50,000,000 | 75,000,000 | 100,000,000 | 150,000,000 |
 
-|MANFAAT|PLAN|Col3|Col4|Col5|Col6|
-|---|---|---|---|---|---|
-||MI-250|MI-500|MI-750|MI-1000|MI-1500|
-|Santunan Melahirkan (Rp.)|2,500,000|5,000,000|7,500,000|10,000,000|15,000,000|
-
+| MANFAAT                   | PLAN      | Col3      | Col4      | Col5       | Col6       |
+| ------------------------- | --------- | --------- | --------- | ---------- | ---------- |
+|                           | MI-250    | MI-500    | MI-750    | MI-1000    | MI-1500    |
+| Santunan Melahirkan (Rp.) | 2,500,000 | 5,000,000 | 7,500,000 | 10,000,000 | 15,000,000 |
 
 **Biaya - biaya**
-
 
 1. Biaya-biaya yang terkait dengan biaya bank ditanggung oleh Pemegang Polis.
 
@@ -186,8 +185,7 @@ terdapat potensi kerugian yang lebih besar jika klaim melebihi manfaat yang seha
 
 dan/atau Tenaga Pemasar dan/atau Pialang.
 
-
------
+---
 
 **Pengecualian**
 **Kelompok penyakit atau keadaan berikut tidak dapat kami jamin, yaitu:**
@@ -259,8 +257,7 @@ dan/atau Tenaga Pemasar dan/atau Pialang.
 
 **lain)**
 
-
------
+---
 
 **1.22.5.** **Semua aktifitas menyelam yang menggunakan alat bantu pernapasan (diving dan lain-lain)**
 **1.22.6.** **Semua aktifitas lomba kecepatan dengan kendaraan bermesin (balap motor, mobil, perahu dan**
@@ -285,14 +282,14 @@ dan/atau Tenaga Pemasar dan/atau Pialang.
 **1.28.** **Bencana Alam yaitu Bencana yang apabila dinyatakan oleh pemerintah sebagai Bencana Nasional.**
 
 **Persyaratan dan Tata Cara**
+
 - **Mekanisme Pengajuan Asuransi**
 
 1. Apabila calon klien coorporate setuju untuk menutup asuransi :
 
 Sales Business Banking Employee Benefit BNI Life menyerahkan Surat Pengajuan Asuransi Kumpulan (SPAK)
 kepada calon klien coorporate untuk diisi dan ditandatangani oleh Direktur Utama Calon Pemegang Polis atau
-Pejabat lain yang telah diberikan surat kuasa oleh Direktur Utama
-2. SPAK asli tersebut diserahkan kembali ke Sales Business Banking Employee Benefit BNI Life dengan dilengkapi
+Pejabat lain yang telah diberikan surat kuasa oleh Direktur Utama 2. SPAK asli tersebut diserahkan kembali ke Sales Business Banking Employee Benefit BNI Life dengan dilengkapi
 
 dokumen pendukung SPAK :
 
@@ -303,21 +300,18 @@ Pemegang Polis
 − Fotocopy Surat Izin Usaha Perusahaan (SIUP)
 − Fotocopy Surat Keterangan Domisili
 − Surat Kuasa (jika penandatangan PKS selain Direktur)
-− Data Peserta final terbaru
-3. Sales Business Banking Employee Benefit BNI Life melengkapi dokumen tersebut di atas dengan instruksi
+− Data Peserta final terbaru 3. Sales Business Banking Employee Benefit BNI Life melengkapi dokumen tersebut di atas dengan instruksi
 
 penutupan yang berisi rincian term and condition penutupan dan menyerahkan kepada Marketing Support
-_Employee Benefit (EB)_
-4. Berdasarkan dokumen yang telah dilengkapi, Marketing Support Employee Benefit (EB)  akan membuat form
+_Employee Benefit (EB)_ 4. Berdasarkan dokumen yang telah dilengkapi, Marketing Support Employee Benefit (EB) akan membuat form
 
-penutupan.
-5. Marketing Support _Employee Benefit (EB) menginformasikan penutupan ke Unit Underwriting dan Aktuari_
+penutupan. 5. Marketing Support _Employee Benefit (EB) menginformasikan penutupan ke Unit Underwriting dan Aktuari_
 
 dengan melampirkan dokumen penutupan berikut ketentuan Unit Underwriting dan perhitungan final yang
 dikeluarkan Aktuari.
 
 - **Mekanisme Pengajuan Klaim**
-Setiap klaim yang diajukan harus dilengkapi dengan:
+  Setiap klaim yang diajukan harus dilengkapi dengan:
 
 1. Rawat Inap
 
@@ -329,8 +323,7 @@ c. Kuitansi asli atau fotokopi yang telah dilegalisir dari rumah sakit beserta r
 d. Perincian biaya perawatan (termasuk biaya penggunaan obat dan penunjang medis).
 e. Hasil pemeriksaan penunjang
 
-
------
+---
 
 2. Rawat Jalan
 
@@ -360,11 +353,9 @@ yang tercantum di dalam Polis. Dokumen-dokumen yang tidak memenuhi kelengkapan p
 akan dikembalikan dan dapat diajukan kembali dalam waktu 60 (enam puluh) hari kalender sejak tanggal surat
 pemberitahuan pengembalian klaim.
 
+---
 
------
-
-# Simulasi Produk BNI Life Optima Cash Plan 
-
+# Simulasi Produk BNI Life Optima Cash Plan
 
 Paket yang diambil:
 **Manfaat Utama (Rawat Inap)**
@@ -372,15 +363,13 @@ Paket yang diambil:
 **Rawat Jalan**
 **Melahirkan**
 
+---
 
------
-
-|Keterangan tindakan|Diajukan|Benefit|Dibayar|Ditolak|Keterangan|
-|---|---|---|---|---|---|
-|Melahirkan Normal|8.500.000|5.000.000|5.000.000|3.500.00|Ben max|
-|Lain-lain|500.0 00|0|0|500.000|pembalut maternity, bedung, pampers (non medis) uncover|
-|Total|9.000.000|5.000.000|5.000.000|4.000.000||
-
+| Keterangan tindakan | Diajukan  | Benefit   | Dibayar   | Ditolak   | Keterangan                                              |
+| ------------------- | --------- | --------- | --------- | --------- | ------------------------------------------------------- |
+| Melahirkan Normal   | 8.500.000 | 5.000.000 | 5.000.000 | 3.500.00  | Ben max                                                 |
+| Lain-lain           | 500.0 00  | 0         | 0         | 500.000   | pembalut maternity, bedung, pampers (non medis) uncover |
+| Total               | 9.000.000 | 5.000.000 | 5.000.000 | 4.000.000 |                                                         |
 
 **Simulasi Pembayaran Manfaat Asuransi**
 
@@ -399,7 +388,7 @@ Life Insurance akan membayarkan klaim sesuai dengan rincian berikut:
 **Klaim yang diajukan:**
 Persalinan normal : Rp8.500.000
 Lain-lain
-(pembalut maternity, bedung, pampers) :   Rp500.000
+(pembalut maternity, bedung, pampers) : Rp500.000
 Total klaim yang diajukan : Rp9.000.000
 
 **Klaim yang dibayarkan:**
@@ -430,11 +419,9 @@ Email: care@bni-life.co.id
 _PT BNI Life Insurance Berizin dan diawasi oleh Otoritas Jasa Keuangan (OJK)_
 Page 8 of 10
 
-
------
+---
 
 **Informasi Tambahan**
-
 
 1. Berakhirnya pertanggungan asuransi kesehatan secara umum:
 
@@ -450,6 +437,7 @@ d. Kepesertaan Pegawai/Anggota Pemegang Polis berakhir disebabkan oleh hal-hal s
     - Pembayaran premi dibatalkan atau tidak dibayarkan oleh Pemegang Polis dengan alasan apapun.
 
     - Pegawai/Anggota Pemegang Polis meninggal dunia.
+
 e. Kepesertaan Anggota Keluarga berakhir disebabkan oleh hal-hal sebagai berikut:
 
       - Saat Pegawai/Anggota tidak lagi Pegawai/Anggota dari Pemegang Polis.
@@ -488,8 +476,7 @@ telah berizin dan diawasi oleh Otoritas Jasa Keuangan (“OJK”).
 _PT BNI Life Insurance Berizin dan diawasi oleh Otoritas Jasa Keuangan (OJK)_
 Page 9 of 10
 
-
------
+---
 
 **Saran dan Keluhan**
 
@@ -513,24 +500,19 @@ Jl. Gatot Subroto Kavling 24-25
 
 Jakarta 12930
 
-
 **_Disclaimer_**
-
 
 1. Perusahaan Asuransi dapat menolak permohonan produk Anda apabila tidak memenuhi persyaratan dan
 
-peraturan yang berlaku
-2. Anda harus membaca dengan teliti Ringkasan Informasi Produk dan Layanan ini dan berhak bertanya kepada
+peraturan yang berlaku 2. Anda harus membaca dengan teliti Ringkasan Informasi Produk dan Layanan ini dan berhak bertanya kepada
 
 pegawai Perusahaan Asuransi atas semua hal terkait Ringkasan Informasi Produk dan Layanan ini.
 
 Tanggal Cetak Dokumen :
 
-_ _ / _ _ /_ _ _ _
+\_ _ / _ _ /_ \_ \_ \_
 
 _PT BNI Life Insurance Berizin dan diawasi oleh Otoritas Jasa Keuangan (OJK)_
 Page 10 of 10
 
-
------
-
+---
