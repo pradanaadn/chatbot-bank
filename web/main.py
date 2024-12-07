@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 import time
-
+from loguru import logger
 def generator():
     sentence = """
 You are a customer service representative from a bank that offers a live assurance product. You will answer customer questions using Bahasa Indonesia.
@@ -41,4 +41,4 @@ chat_input = st.chat_input("Ask your question here")
 if chat_input:
    st.chat_message("assistant").write_stream(generator())
 
-print(os.listdir(os.getcwd()))
+logger.info(os.listdir(os.getcwd()))
