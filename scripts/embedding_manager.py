@@ -11,19 +11,20 @@ class EmbeddingManager:
         self.persist_directory = persist_directory
         self.vectordb = None
         self.embedding = (
-            GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
+            embedding
             if embedding
-            else embedding
+            else
+            GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
         )
 
     def get_retriever(self):
         self.vectordb = Chroma(
             persist_directory=self.persist_directory, embedding_function=self.embedding
         )
-        retriever = self.vectordb.as_retriever(
-            search_type="mmr", search_kwargs={"k": 6, "lambda_mult": 0.25}
-        )
-        return retriever
+        # retriever = self.vectordb.as_retriever(
+        #     search_type="mmr", search_kwargs={"k": 6, "lambda_mult": 0.25}
+        # )
+        return self.vectordb
 
     # Method to create and persist embeddings
     def create_and_persist_embeddings(self):
