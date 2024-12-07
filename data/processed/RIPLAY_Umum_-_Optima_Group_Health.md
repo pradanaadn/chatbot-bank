@@ -2,38 +2,38 @@
 
 **OPTIMA GROUP HEALTH**
 
-| Penanggung     | PT BNI Life Insurance       | Deskripsi Produk | Optima Group Health merupakan program asuransi kesehatan kumpulan yang memberikan proteksi bagi Tertanggung yang menjalani Rawat Inap, Rawat Jalan, Melahirkan, Kacamata, dan Gigi. |
-| -------------- | --------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pemegang Polis | Perusahaan                  |                  |                                                                                                                                                                                     |
-| Tertanggung    | Perorangan                  |                  |                                                                                                                                                                                     |
-| Nama Produk    | Optima Group Health         |                  |                                                                                                                                                                                     |
-| Mata Uang      | Rupiah (IDR) & USD          |                  |                                                                                                                                                                                     |
-| Jenis Produk   | Asuransi Kesehatan Kumpulan |                  |                                                                                                                                                                                     |
+|Penanggung|PT BNI Life Insurance|Deskripsi Produk|Optima Group Health merupakan program asuransi kesehatan kumpulan yang memberikan proteksi bagi Tertanggung yang menjalani Rawat Inap, Rawat Jalan, Melahirkan, Kacamata, dan Gigi.|
+|---|---|---|---|
+|Pemegang Polis|Perusahaan|||
+|Tertanggung|Perorangan|||
+|Nama Produk|Optima Group Health|||
+|Mata Uang|Rupiah (IDR) & USD|||
+|Jenis Produk|Asuransi Kesehatan Kumpulan|||
+
 
 **OPTIMA GROUP HEALTH**
 
+
 **Fitur Utama Asuransi**
 
-| Usia Masuk              |  Karyawan dan pasangan minimum 0 tahun sampai dengan 85 tahun dan dapat diperpanjang sampai dengan usia 90 tahun. Untuk Paket Small Medium Enterprise 0 – 65 tahun.  Anak sejak berusia 0 hari sampai dengan maksimal 24 tahun.  Usia masuk 66 – 85 tahun hanya berlaku untuk key person. |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Metode Perhitungan Usia | Age last birthday                                                                                                                                                                                                                                                                            |
-| Tertanggung             | Tertanggung Utama: Karyawan atau anggota yang memiliki insurable interest dengan perusahaan/organisasi yang berbadan hukum. Tertanggung Tambahan: Keluarga inti dari karyawan/ anggota (istri/ suami dan anak yang sah).                                                                     |
-| Masa Asuransi           | 1 (satu) tahun dan dapat diperpanjang sampai dengan usia Tertanggung 90 tahun                                                                                                                                                                                                                |
-| Katentuan Underwriting  | Guaranteed acceptance                                                                                                                                                                                                                                                                        |
-| Cara Pembayaran Premi   | Tahunan, Semesteran, Kuartal, dan Termin.                                                                                                                                                                                                                                                    |
+|Usia Masuk| Karyawan dan pasangan minimum 0 tahun sampai dengan 85 tahun dan dapat diperpanjang sampai dengan usia 90 tahun. Untuk Paket Small Medium Enterprise 0 – 65 tahun.  Anak sejak berusia 0 hari sampai dengan maksimal 24 tahun.  Usia masuk 66 – 85 tahun hanya berlaku untuk key person.|
+|---|---|
+|Metode Perhitungan Usia|Age last birthday|
+|Tertanggung|Tertanggung Utama: Karyawan atau anggota yang memiliki insurable interest dengan perusahaan/organisasi yang berbadan hukum. Tertanggung Tambahan: Keluarga inti dari karyawan/ anggota (istri/ suami dan anak yang sah).|
+|Masa Asuransi|1 (satu) tahun dan dapat diperpanjang sampai dengan usia Tertanggung 90 tahun|
+|Katentuan Underwriting|Guaranteed acceptance|
+|Cara Pembayaran Premi|Tahunan, Semesteran, Kuartal, dan Termin.|
 
----
+
+-----
 
 **Manfaat Asuransi**
 
+
 Manfaat Asuransi produk Optima Group Health terdiri dari:
-
 # 1. Manfaat Utama
-
 Manfaat Utama adalah berupa Pelayanan Rawat Inap (RI) dengan detail Daftar Manfaat pada lampiran I
-
 # 2. Manfaat Tambahan
-
 Manfaat Tambahan adalah pilihan jenis pelayanan kesehatan yang dapat dipilih Pemegang Polis sebagai pelengkap
 Manfaat Utama program Optima Group Health. Manfaat Tambahan adalah berupa Pelayanan Rawat Jalan, Manfaat
 Melahirkan, Manfaat Gigi dan Manfaat Kacamata dengan detail Daftar Manfaat pada lampiran III
@@ -92,7 +92,8 @@ c. BIAYA PEMBIUSAN (ANESTESI)
 Penggantian atas Biaya Yang Wajar dan Perlu yang dibebankan oleh Dokter Anastesi
 termasuk biaya Obat Anestesi sesuai dengan jenis pembedahan yang tercantum dalam
 
----
+
+-----
 
 Daftar Pembedahan sebagaimana terlampir dalam Polis ini dengan memperhatikan
 maksimum biaya yang tercantum dalam Daftar Manfaat Asuransi.
@@ -157,7 +158,8 @@ dengan batasan manfaat setinggi-tingginya sesuai dengan Daftar Manfaat.
 Jaminan Perawatan Tertanggung akibat kecelakaan oleh Dokter atau Rumah Sakit sebagai pasien
 berobat jalan dalam waktu tidak lebih dari 48 (empat puluh delapan) jam setelah kecelakaan.
 
----
+
+-----
 
 11. BIAYA PERAWATAN DARURAT TANPA OPNAME AKIBAT KECELAKAAN ATAU KONDISI
 
@@ -199,7 +201,7 @@ Daftar Manfaat per tahun.
 
 17. SANTUNAN DUKA
 
-\*) Manfaat Tambahan (Opsional)
+*) Manfaat Tambahan (Opsional)
 Apabila Tertanggung dalam masa pertanggungan meninggal dunia bukan akibat penyakit atau
 kondisi yang ada di dalam daftar pengecualian Polis ini, maka kepada ahli waris yang ditunjuk akan
 dibayarkan sejumlah uang santunan duka sesuai dengan kelas yang ditetapkan untuk
@@ -207,7 +209,7 @@ Tertanggung.
 
 18. BIAYA MULTIVITAMIN dan SUPLEMEN
 
-\*) Manfaat Khusus
+*) Manfaat Khusus
 Penggantian biaya untuk multivitamin dan suplemen pada saat terjadinya perawatan/pengobatan
 selama direkomendasikan oleh dokter dan bukan merupakan produk multilevel marketing, dengan
 batasan maksimal manfaat.
@@ -225,7 +227,8 @@ Penggantian Biaya Hemodialisa (cuci darah) dan Kemoterapi (penyinaran) termasuk 
 dan alat medis yang dibutuhkan dengan batasan manfaat setinggi-tingginya sesuai dengan Daftar
 Manfaat per tahun.
 
----
+
+-----
 
 21. SANTUNAN HARIAN PENGGANTI BIAYA BPJS
 
@@ -240,7 +243,7 @@ c. Tidak ada penggantian apa pun selain penggantian seperti pada point 19.b diat
 
 22. CACAT TETAP TOTAL SELURUH ATAU SEBAGIAN TUBUH AKIBAT KECELAKAAN
 
-\*) Manfaat Tambahan (Opsional)
+*) Manfaat Tambahan (Opsional)
 Dalam kasus kecelakaan yang diderita oleh Tertanggung dalam waktu 180 (seratus delapan puluh)
 hari setelah kecelakaan tersebut, Tertanggung tidak meninggal dunia tetapi menderita Cacat
 Tetap Total, Penanggung akan membayar manfaat asuransi dengan ketentuan sebagai berikut:
@@ -289,28 +292,29 @@ p. Jari kelingking kiri 7%
 q. Jari tengah/manis kanan 6%
 r. Jari tengah/manis kiri 5%
 
-| Cacat Tetap Total Sebagian Anggota Tubuh | Uang Asuransi |
-| ---------------------------------------- | ------------- |
-| a. Lengan kanan mulai dari bahu          | 70%           |
-| b. Tangan kanan mulai dari siku          | 65%           |
-| c. Tangan kanan mulai dari pergelangan   | 60%           |
-| d. Lengan kiri mulai dari bahu           | 56%           |
-| e. Tangan kiri mulai dari siku           | 52%           |
-| f. Tangan kiri mulai dari pergelangan    | 50%           |
-| g. Pendengaran kedua belah telinga       | 50%           |
-| h. Pendengaran sebelah telinga           | 15%           |
-| i. Satu kaki                             | 50%           |
-| j. Penglihatan sebelah mata              | 50%           |
-| k. Jempol kanan                          | 25%           |
-| l. Jempol kiri                           | 20%           |
-| m.Jari telunjuk kanan                    | 15%           |
-| n. Jari telunjuk kiri                    | 12%           |
-| o. Jari kelingking kanan                 | 12%           |
-| p. Jari kelingking kiri                  | 7%            |
-| q. Jari tengah/manis kanan               | 6%            |
-| r. Jari tengah/manis kiri                | 5%            |
+|Cacat Tetap Total Sebagian Anggota Tubuh|Uang Asuransi|
+|---|---|
+|a. Lengan kanan mulai dari bahu|70%|
+|b. Tangan kanan mulai dari siku|65%|
+|c. Tangan kanan mulai dari pergelangan|60%|
+|d. Lengan kiri mulai dari bahu|56%|
+|e. Tangan kiri mulai dari siku|52%|
+|f. Tangan kiri mulai dari pergelangan|50%|
+|g. Pendengaran kedua belah telinga|50%|
+|h. Pendengaran sebelah telinga|15%|
+|i. Satu kaki|50%|
+|j. Penglihatan sebelah mata|50%|
+|k. Jempol kanan|25%|
+|l. Jempol kiri|20%|
+|m.Jari telunjuk kanan|15%|
+|n. Jari telunjuk kiri|12%|
+|o. Jari kelingking kanan|12%|
+|p. Jari kelingking kiri|7%|
+|q. Jari tengah/manis kanan|6%|
+|r. Jari tengah/manis kiri|5%|
 
----
+
+-----
 
 Apabila Tertanggung mengalami cacat tetap total dan kehilangan fungsi sebagian anggota
 tubuh akibat kecelakaan, akan dibayarkan manfaat asuransi sesuai persentase seperti
@@ -352,7 +356,8 @@ Penggantian biaya pembelian obat- obatan atas resep dokter selama 1 (satu) tahun
 Penggantian biaya laboratorium dan penunjang diagnostik lainnya atas rujukan dokter sesuai
 dengan diagnosa penyakit selama 1 (satu) tahun masa asuransi.
 
----
+
+-----
 
 ## d. FISIOTERAPI
 
@@ -365,7 +370,6 @@ Penggantian biaya administrasi sehubungan dengan pengobatan yang dilakukan, maks
 kali kunjungan per hari dengan batasan manfaat setinggi-tingginya sesuai dengan Daftar Manfaat.
 
 ## f. BIAYA IMUNISASI DASAR ANAK
-
 Penggantian biaya imunisasi dasar untuk anak berusia sampai dengan 1 (satu) tahun. Jenis
 imunisasi dasar yang ditanggung adalah Hepatitis B, BCG, DPT, Polio dan Campak (termasuk nonfever).
 
@@ -380,19 +384,17 @@ Penggantian biaya program keluarga berencana yang terdiri dari Pil, IUD dan Sunt
 batasan manfaat setinggi-tingginya sesuai dengan daftar manfaat pertahun.
 
 ## i. TELEMEDICINE
-
-\*) Manfaat Tambahan (Opsional)
+*) Manfaat Tambahan (Opsional)
 Manfaat pengantian biaya-biaya konsultasi online dengan provider-provider yang tersedia (tidak
 termasuk biaya pengiriman obat).
 
 ## j. MEDICAL CHECK UP
-
-\*) Manfaat Tambahan (Opsional)
+*) Manfaat Tambahan (Opsional)
 Penggantian biaya pemeriksaan kesehatan secara menyeluruh.
 
 ## k. EVAKUASI MEDIS
 
-\*) Manfaat Tambahan (Opsional)
+*) Manfaat Tambahan (Opsional)
 Membayar layanan evakuasi darurat untuk menyiapkan transportasi/ metode lainnya yang
 memadai untuk membawa Tertanggung ke fasilitas medis terdekat dan/ atau penggantian
 pemulangan jenazah yang meninggal dunia dalam rangka perjalanan baik didalam maupun di luar
@@ -409,7 +411,8 @@ melebihi maksimum limit biaya kunjungan per hari tidak ditanggung oleh Penanggun
 oleh Pemegang Polis atau Tertanggung
 c. Batasan manfaat ini sesuai dengan Table Manfaat Rawat Jalan
 
----
+
+-----
 
 Dengan pilihan Plan sebagai berikut:
 
@@ -443,7 +446,7 @@ memerlukan Perawatan Rumah Sakit berdasarkan indikasi medis.
 MELAHIRKAN
 
 i. Penggantian biaya konsultasi yang berhubungan dengan kehamilan atau paska melahirkan
-ke Dokter Umum, Dokter Spesialis Obstetri dan Ginekologi (SpOG), atau bidan yang
+ke Dokter Umum,  Dokter Spesialis Obstetri dan Ginekologi (SpOG), atau bidan yang
 berizin praktik.
 ii. Penggantian biaya-biaya pemeriksaan laboratorium dan penunjang diagnostik lainnya yang
 diperlukan berdasarkan indikasi medis yang berhubungan dengan kehamilan atau paska
@@ -451,20 +454,19 @@ melahirkan.
 iii. Penggantian biaya obat-obatan dan/atau vitamin yang berhubungan dengan kehamilan
 atau paska melahirkan.
 
----
+
+-----
 
 2. Batasan Manfaat:
 
 ## a. Biaya melahirkan harus tunduk kepada batasan maksimum santunan melahirkan. b. Santunan melahirkan mulai dijamin setelah 280 (dua ratus delapan puluh) hari sejak mulai
 
 menjadi Tertanggung pertama kali.
-
 ## c. Santunan melahirkan disediakan hanya untuk melahirkan 3 (tiga) anak yang hidup, dalam hal
 
 melahirkan 2 (dua) anak atau lebih (kembar) akan dianggap melahirkan 1 (satu) kali. Melahirkan
 yang keempat dan seterusnya sepenuhnya menjadi tanggung jawab Pemegang Polis atau
 Tertanggung.
-
 ## d. Besar penggantian klaim adalah sebesar 100% (seratus persen) dari kuitansi dengan batas
 
 maksimal seperti tercantum dalam daftar manfaat.
@@ -515,8 +517,7 @@ Mengganti biaya-biaya perawatan perbaikan yang menyangkut Cappings, Mahkota dan 
 dalam bentuk plastik atau porselen berlapis emas. Batas jaminan ini adalah per tahun Polis.
 
 ## f. GIGI PALSU
-
-Penggantian biaya sebenarnya yang dibebankan oleh Dokter Gigi untuk gigi palsu yang meliputi:
+Penggantian biaya sebenarnya yang dibebankan oleh Dokter Gigi untuk gigi palsu  yang meliputi:
 
                - Pemasangan gigi palsu
 
@@ -524,10 +525,11 @@ Penggantian biaya sebenarnya yang dibebankan oleh Dokter Gigi untuk gigi palsu y
 
                - Pegangan untuk gigi palsu
 
-| Batasan No. Manfaat Maksimum 1 Biaya Melahirkan Normal per kehamilan 2 Biaya Melahirkan dengan Pembedahan (Caesar ) per kehamilan 3 Biaya Pengguguran Kehamilan (Aborsi) Atas Pertimbangan Medis per kehamilan 4 Biaya Komplikasi Kehamilan dan Komplikasi Pasca Melahirkan per tahun 5 Biaya Perawatan Sebelum dan 40 Hari Setelah Melahirkan per tahun Premi per Tahun | Plan MT-1250 MT-2500 MT-5000 MT-7500 MT-10000 1,250,000 2,500,000 5,000,000 7,500,000 10,000,000 2,500,000 5,000,000 10,000,000 15,000,000 20,000,000 8 80,000 1,750,000 3,500,000 5,250,000 7,000,000 8 80,000 1,750,000 3,500,000 5,250,000 7,000,000 6 30,000 1,250,000 2,500,000 3,750,000 5,000,000 5 18,700 1,032,700 2,065,400 3,098,000 4,130,700 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|Batasan No. Manfaat Maksimum 1 Biaya Melahirkan Normal per kehamilan 2 Biaya Melahirkan dengan Pembedahan (Caesar ) per kehamilan 3 Biaya Pengguguran Kehamilan (Aborsi) Atas Pertimbangan Medis per kehamilan 4 Biaya Komplikasi Kehamilan dan Komplikasi Pasca Melahirkan per tahun 5 Biaya Perawatan Sebelum dan 40 Hari Setelah Melahirkan per tahun Premi per Tahun|Plan MT-1250 MT-2500 MT-5000 MT-7500 MT-10000 1,250,000 2,500,000 5,000,000 7,500,000 10,000,000 2,500,000 5,000,000 10,000,000 15,000,000 20,000,000 8 80,000 1,750,000 3,500,000 5,250,000 7,000,000 8 80,000 1,750,000 3,500,000 5,250,000 7,000,000 6 30,000 1,250,000 2,500,000 3,750,000 5,000,000 5 18,700 1,032,700 2,065,400 3,098,000 4,130,700|
+|---|---|
 
----
+
+-----
 
                - Bingkai penunjang gigi
 
@@ -594,12 +596,13 @@ rujukan dokter.
 
 Dengan pilihan Plan sebagai berikut:
 
-| No. 1 2 3 4 5 6     | Manfaat Biaya Perawatan Dasar Biaya Perawatan Gusi Biaya Perawatan Pencegahan Biaya Perawatan Kompleks Biaya Perawatan Perbaikan Biaya Gigi Palsu | Batasan Maksimum per tahun per tahun per tahun per tahun per tahun per tahun | Plan                                                          | Col5                                                          | Col6                                                             | Col7                                                             | Col8                                                                |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
-|                     |                                                                                                                                                   |                                                                              | DT-2375 2 50,000 2 50,000 2 50,000 5 00,000 5 00,000 6 25,000 | DT-2375 2 50,000 2 50,000 2 50,000 5 00,000 5 00,000 6 25,000 | DT-4750 5 00,000 5 00,000 5 00,000 1,000,000 1,000,000 1,250,000 | DT-7125 7 50,000 7 50,000 7 50,000 1,500,000 1,500,000 1,875,000 | DT-9500 1,000,000 1,000,000 1,000,000 2,000,000 2,000,000 2,500,000 |
-| Batas Klaim Tahunan |                                                                                                                                                   |                                                                              | 2,375,000                                                     | 2,375,000                                                     | 4,750,000                                                        | 7,125,000                                                        | 9,500,000                                                           |
+|No. 1 2 3 4 5 6|Manfaat Biaya Perawatan Dasar Biaya Perawatan Gusi Biaya Perawatan Pencegahan Biaya Perawatan Kompleks Biaya Perawatan Perbaikan Biaya Gigi Palsu|Batasan Maksimum per tahun per tahun per tahun per tahun per tahun per tahun|Plan|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+||||DT-2375 2 50,000 2 50,000 2 50,000 5 00,000 5 00,000 6 25,000|DT-2375 2 50,000 2 50,000 2 50,000 5 00,000 5 00,000 6 25,000|DT-4750 5 00,000 5 00,000 5 00,000 1,000,000 1,000,000 1,250,000|DT-7125 7 50,000 7 50,000 7 50,000 1,500,000 1,500,000 1,875,000|DT-9500 1,000,000 1,000,000 1,000,000 2,000,000 2,000,000 2,500,000|
+|Batas Klaim Tahunan|||2,375,000|2,375,000|4,750,000|7,125,000|9,500,000|
 
----
+
+-----
 
 **Risiko**
 
@@ -618,7 +621,9 @@ Manfaat Asuransi yang diambil.
 
 peserta dan biaya –biaya lainnya jika ada.
 
+
 **Pengecualian**
+
 
 **Kelompok penyakit atau kondisi keadaan berikut tidak dapat dijamin, yaitu:**
 **1.** **Polis ini tidak memberikan hak kepada Tertanggung atas penggantian biaya bagi perawatan, pengobatan,**
@@ -662,7 +667,8 @@ p. **Perawatan dan/atau pengobatan akibat:**
 **i.** **Terlibat aktif perang, kerusuhan, perkelahian, perbuatan kejahatan atau pelanggaran terhadap**
 **ketentuan perundang-undangan dan aturan dibawahnya.**
 
----
+
+-----
 
 **ii.** **Luka yang sengaja serta percobaan bunuh diri**
 q. **Perawatan dan/ atau pengobatan karena keikutsertaan dalam aktivitas atau olahraga berbahaya yaitu:**
@@ -705,11 +711,10 @@ y. **Bencana Alam yaitu Bencana yang apabila dinyatakan oleh pemerintah sebagai 
 **Persyaratan dan Tata Cara**
 
 **Syarat Kepesertaan:**
-
 1. **Jumlah Peserta minimum adalah 5 peserta.**
 
 2. **Usia Masuk: 0 – 85 tahun (dapat diperpanjang sampai dengan usia 90 tahun). Untuk Paket Small Medium Enterprise 0 –**
-   65 tahun.
+65 tahun.
 
 3. **Yang dapat didaftarkan sebagai peserta**
 
@@ -726,7 +731,8 @@ anak.
 a. Penambahan peserta baru maksimum dilakukan 1 kali dalam satu bulan untuk setiap pemegang polis.
 b. Penambahan peserta baru dilakukan sejak tanggal effective berlaku dan maksimum 9 (sembilan) bulan.
 
----
+
+-----
 
 c. Penanggung berhak sepenuhnya untuk menolak penambahan peserta baru tanpa harus menyatakan penolakan
 
@@ -739,48 +745,45 @@ a. Pengurangan peserta maksimum dilakukan 1 kali dalam satu bulan untuk setiap p
 b. Pengurangan peserta harus mengikuti prosedur yang disyaratkan Penanggung.
 
 **Mekanisme Pengajuan Asuransi:**
+1. **Jalur Penjualan Employee Benefit**
+Apabila calon klien corporate setuju untuk menutup asuransi:
+a. Sales Business Banking _Employee Benefit BNI Life menyerahkan Surat Pengajuan Asuransi Kumpulan (SPAK)_
+kepada calon klien corporate untuk diisi dan ditandatangani oleh Direktur Utama Calon Pemegang Polis atau Pejabat
+lain yang telah diberikan surat kuasa oleh Direktur Utama.
+b. SPAK asli tersebut diserahkan kembali ke Sales Business Banking _Employee Benefit BNI Life dengan dilengkapi_
+dokumen pendukung SPAK:
 
-1.  **Jalur Penjualan Employee Benefit**
-    Apabila calon klien corporate setuju untuk menutup asuransi:
-    a. Sales Business Banking _Employee Benefit BNI Life menyerahkan Surat Pengajuan Asuransi Kumpulan (SPAK)_
-    kepada calon klien corporate untuk diisi dan ditandatangani oleh Direktur Utama Calon Pemegang Polis atau Pejabat
-    lain yang telah diberikan surat kuasa oleh Direktur Utama.
-    b. SPAK asli tersebut diserahkan kembali ke Sales Business Banking _Employee Benefit BNI Life dengan dilengkapi_
-    dokumen pendukung SPAK:
+     - Proposal dan rekapitulasi perhitungan terakhir yang telah disetujui dan ditandatangani oleh Calon Pemegang
+Polis
 
-         - Proposal dan rekapitulasi perhitungan terakhir yang telah disetujui dan ditandatangani oleh Calon Pemegang
+     - Tabel perhitungan premi yang telah ditandatangani oleh Calon Pemegang Polis
 
-    Polis
+     - Copy Akta Pendirian Perusahaan dan Perubahan terakhirnya
 
-         - Tabel perhitungan premi yang telah ditandatangani oleh Calon Pemegang Polis
+     - Fotocopy Surat Izin Usaha Perusahaan (SIUP)
 
-         - Copy Akta Pendirian Perusahaan dan Perubahan terakhirnya
+     - Fotocopy Surat Keterangan Domisili
 
-         - Fotocopy Surat Izin Usaha Perusahaan (SIUP)
+     - Surat Kuasa (jika penandatangan PKS selain Direktur)
 
-         - Fotocopy Surat Keterangan Domisili
+     - Data Peserta final terbaru
+c. Sales Business Banking Employee Benefit BNI Life melengkapi dokumen tersebut di atas dengan instruksi penutupan
+yang berisi rincian term and condition penutupan dan menyerahkan kepada Marketing Support Employee Benefit (EB)
+d. Berdasarkan dokumen yang telah dilengkapi, Marketing Support _Employee Benefit (EB) akan membuat form_
+penutupan.
+e. _Marketing Support_ _Employee Benefit (EB) menginformasikan penutupan ke Unit Underwriting dan Aktuari dengan_
+melampirkan dokumen penutupan berikut ketentuan Unit Underwriting dan perhitungan final yang dikeluarkan
+Aktuaria.
 
-         - Surat Kuasa (jika penandatangan PKS selain Direktur)
+2. **Jalur Penjualan Referensi**
+a. Calon Nasabah datang ke BNI
+b. Staf BNI akan mereferensikan asuransi ke BNI Life
+c. Pemasar BNI Life melakukan penawaran kepada calon Pemegang Polis.
+d. Apabila calon Peserta menyatakan setuju untuk membeli produk Optima Group Health, maka pemasar BNI Life akan
+membantu dalam proses penutupan.
+e. BNI Life akan mengirimkan polis kepada Pemegang Polis dan bukti kepesertaan kepada Peserta.
 
-         - Data Peserta final terbaru
-
-    c. Sales Business Banking Employee Benefit BNI Life melengkapi dokumen tersebut di atas dengan instruksi penutupan
-    yang berisi rincian term and condition penutupan dan menyerahkan kepada Marketing Support Employee Benefit (EB)
-    d. Berdasarkan dokumen yang telah dilengkapi, Marketing Support _Employee Benefit (EB) akan membuat form_
-    penutupan.
-    e. _Marketing Support_ _Employee Benefit (EB) menginformasikan penutupan ke Unit Underwriting dan Aktuari dengan_
-    melampirkan dokumen penutupan berikut ketentuan Unit Underwriting dan perhitungan final yang dikeluarkan
-    Aktuaria.
-
-2.  **Jalur Penjualan Referensi**
-    a. Calon Nasabah datang ke BNI
-    b. Staf BNI akan mereferensikan asuransi ke BNI Life
-    c. Pemasar BNI Life melakukan penawaran kepada calon Pemegang Polis.
-    d. Apabila calon Peserta menyatakan setuju untuk membeli produk Optima Group Health, maka pemasar BNI Life akan
-    membantu dalam proses penutupan.
-    e. BNI Life akan mengirimkan polis kepada Pemegang Polis dan bukti kepesertaan kepada Peserta.
-
-3.  **Jalur Penjualan Integrasi**
+3. **Jalur Penjualan Integrasi**
 
 a. Calon Pemegang Polis mendapatkan penawaran untuk membeli produk Bank maupun lembaga keuangan.
 b. Karyawan Bank maupun lembaga keuangan akan memberikan informasi mengenai produk asuransi Optima Group
@@ -791,7 +794,8 @@ d. Bank akan memberikan Polis kepada Pemegang Polis termasuk bukti kepesertaan u
 
 **Mekanisme Pengajuan Klaim:**
 
----
+
+-----
 
 Segala macam penyampaian klaim harus diajukan secara tertulis paling lambat 60 (enam puluh) hari kalender sejak tanggal
 pelayanan atau perawatan yang diterima Tertanggung. Pengajuan ulang klaim harus dilengkapi selambat–lambatnya 60 (enam
@@ -867,7 +871,8 @@ dihubungi
 b. Ukuran lensa kacamata dari Dokter Spesialis mata (untuk pengajuan klaim kacamata pertama kali ke Penanggung)
 c. Ukuran lensa kacamata dari optik (untuk pengajuan klaim kacamata kedua dan seterusnya ke Penanggung)
 
----
+
+-----
 
 d. Salinan (Copy) buku kunjungan atau kartu kunjungan yang menunjukan tanggal pembelian yang dilakukan, jika
 
@@ -890,6 +895,7 @@ e. Resume medis yang diisi oleh Dokter/Bidan yang merawat dan diberi stempel Rum
 f. Salinan kuitansi yang telah dilegalisir oleh instansi yang bersangkutan (termasuk salinan resep, hasil pemeriksaan
 penunjang), serta bukti dan perincaian pembayaran dari pihak lain apabila terdapat Koordinasi Manfaat
 
+
 **Saran dan Keluhan**
 
 Nasabah dapat menyampaikan saran dan keluhan kepada:
@@ -908,13 +914,15 @@ Jl. Gatot Subroto Kavling 24-25
 
 Jakarta 12930
 
----
+
+-----
 
 ## Simulasi Produk Optima Group Health
 
-| No. | Manfaat | Batasan Maksimum | Plan    |
-| --- | ------- | ---------------- | ------- |
-|     |         |                  | IP-1000 |
+|No.|Manfaat|Batasan Maksimum|Plan|
+|---|---|---|---|
+||||IP-1000|
+
 
 ## Optima Group Health
 
@@ -953,7 +961,7 @@ Paket yang diambil:
 2 Biaya Kamar Semi ICU/Isolasi (Maks. 20 hari per kasus) per hari 1,500,000
 3 Biaya Kamar Perawatan Intensif atau ICU (Maks. 20 hari per kasus) per hari 2,000,000
 4 Biaya Aneka Perawatan di Rumah Sakit per kasus 25,000,000
-5 Biaya Operasi (Termasuk Dokter Bedah, Kamar Operasi dan Anestesi) per kasus -
+5 Biaya Operasi (Termasuk Dokter Bedah, Kamar Operasi dan Anestesi) per kasus          -
 a. Operasi Kompleks 70,000,000
 b. Operasi Besar 35,000,000
 c. Operasi Sedang 22,400,000
@@ -970,24 +978,29 @@ d. Operasi Kecil 15,400,000
 15 Biaya Alat Bantu yang Ditanam dalam Tubuh (Pen, Screw, Stent, IOL, dan Ring) per tahun 12,500,000
 16 Biaya Hemodialisa (Cuci Darah) dan Kemoterapi (Penyinaran untuk Penyakit Kanker) per tahun 50,000,000
 17 Biaya Multivitamin dan Suplemen per tahun 500,000
-\*) Manfaat Khusus
+*) Manfaat Khusus
 18 Santunan Harian Kamar bagi Peserta yang Menggunakan Provider BPJS (Maks. 60 hari per tahun) per hari 1,000,000
-19 Santunan Duka dan Cacat Tetap (Maks. Usia 57 Tahun) per tahun - Meninggal Dunia Sakit/Bukan Akibat Kecelakaan 5,000,000 - Meninggal Dunia Akibat Kecelakaan 5,000,000 - Cacat Tetap Total Akibat Kecelakaan 5,000,000
+19 Santunan Duka dan Cacat Tetap (Maks. Usia 57 Tahun) per tahun
+              - Meninggal Dunia Sakit/Bukan Akibat Kecelakaan 5,000,000
+              - Meninggal Dunia Akibat Kecelakaan 5,000,000
+              - Cacat Tetap Total Akibat Kecelakaan 5,000,000
 
               - Cacat Tetap Sebagian Akibat Kecelakaan Sesuai %
 
----
 
-| No. 1                                                                                                                                                                                  | Manfaat Biaya Medical Check Up | Batasan Maksimum per tahun | Plan                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------- | -------------------------------------------------------------------------------- |
-|                                                                                                                                                                                        |                                |                            | MCU-800 8 00,000                                                                 |
-| Premi per tahun (0 s/d 55 Tahun) Pria Wanita Anak Premi per tahun (56 s/d 65 Tahun) Pria Wanita Premi per tahun (66 s/d 70 Tahun) Pria Wanita Premi per tahun (> 70 Tahun) Pria Wanita |                                |                            | 5 07,000 5 07,000 5 07,000 7 60,500 7 60,500 7 75,700 7 75,700 7 85,900 7 85,900 |
+-----
 
-| No.                                                                                                                                                                                    | Manfaat                  | Batasan Maksimum | Plan                                                           |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ---------------- | -------------------------------------------------------------- |
-|                                                                                                                                                                                        |                          |                  | ME                                                             |
-| 1                                                                                                                                                                                      | Biaya Medical Evacuation | per tahun        | USD 250,000                                                    |
-| Premi per tahun (0 s/d 55 Tahun) Pria Wanita Anak Premi per tahun (56 s/d 65 Tahun) Pria Wanita Premi per tahun (66 s/d 70 Tahun) Pria Wanita Premi per tahun (> 70 Tahun) Pria Wanita |                          |                  | 29,200 29,200 29,200 29,200 29,200 29,200 29,200 29,200 29,200 |
+|No. 1|Manfaat Biaya Medical Check Up|Batasan Maksimum per tahun|Plan|
+|---|---|---|---|
+||||MCU-800 8 00,000|
+|Premi per tahun (0 s/d 55 Tahun) Pria Wanita Anak Premi per tahun (56 s/d 65 Tahun) Pria Wanita Premi per tahun (66 s/d 70 Tahun) Pria Wanita Premi per tahun (> 70 Tahun) Pria Wanita|||5 07,000 5 07,000 5 07,000 7 60,500 7 60,500 7 75,700 7 75,700 7 85,900 7 85,900|
+
+|No.|Manfaat|Batasan Maksimum|Plan|
+|---|---|---|---|
+||||ME|
+|1|Biaya Medical Evacuation|per tahun|USD 250,000|
+|Premi per tahun (0 s/d 55 Tahun) Pria Wanita Anak Premi per tahun (56 s/d 65 Tahun) Pria Wanita Premi per tahun (66 s/d 70 Tahun) Pria Wanita Premi per tahun (> 70 Tahun) Pria Wanita|||29,200 29,200 29,200 29,200 29,200 29,200 29,200 29,200 29,200|
+
 
 **Manfaat Tambahan**
 **Penggantian 100% dari kuitansi dengan besaran manfaat per peserta sebagai berikut:**
@@ -1011,7 +1024,7 @@ c. Biaya Paket Perawatan Dokter 200,000
 8 Biaya Keluarga Bencana (KB) per tahun 500,000
 9 Telemedicine per kasus 600,000
 
-\*) Manfaat Tambahan
+*) Manfaat Tambahan
 
 **Batas Klaim Tahunan** **8,750,000**
 
@@ -1092,19 +1105,21 @@ Wanita 29,200
 
 Note: dalam satuan Rupiah (IDR)
 
----
 
-| Col1                | Plan                                                             |
-| ------------------- | ---------------------------------------------------------------- |
-|                     | DT-4750 5 00,000 5 00,000 5 00,000 1,000,000 1,000,000 1,250,000 |
-| Batas Klaim Tahunan | 4,750,000                                                        |
+-----
 
-| Col1                                                                                                                                                                                   | Dafar Manfaat Kacamata                                                            | Col3                          | Col4                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------------------------- |
-| No.                                                                                                                                                                                    | Manfaat                                                                           | Batasan Maksimum              | Plan                                                                             |
-|                                                                                                                                                                                        |                                                                                   |                               | GL-500                                                                           |
-| 1 2 3                                                                                                                                                                                  | Biaya Bingkai Kacamata Biaya Lensa Kacamata atau Lensa Kontak Biaya Refraksi Mata | per tahun per tahun per tahun | 5 00,000 5 00,000 1 50,000                                                       |
-| Premi per tahun (0 s/d 55 Tahun) Pria Wanita Anak Premi per tahun (56 s/d 65 Tahun) Pria Wanita Premi per tahun (66 s/d 70 Tahun) Pria Wanita Premi per tahun (> 70 Tahun) Pria Wanita |                                                                                   |                               | 3 86,700 4 25,400 2 70,700 5 80,000 6 38,000 7 73,300 8 50,700 8 70,000 9 57,000 |
+|Col1|Plan|
+|---|---|
+||DT-4750 5 00,000 5 00,000 5 00,000 1,000,000 1,000,000 1,250,000|
+|Batas Klaim Tahunan|4,750,000|
+
+|Col1|Dafar Manfaat Kacamata|Col3|Col4|
+|---|---|---|---|
+|No.|Manfaat|Batasan Maksimum|Plan|
+||||GL-500|
+|1 2 3|Biaya Bingkai Kacamata Biaya Lensa Kacamata atau Lensa Kontak Biaya Refraksi Mata|per tahun per tahun per tahun|5 00,000 5 00,000 1 50,000|
+|Premi per tahun (0 s/d 55 Tahun) Pria Wanita Anak Premi per tahun (56 s/d 65 Tahun) Pria Wanita Premi per tahun (66 s/d 70 Tahun) Pria Wanita Premi per tahun (> 70 Tahun) Pria Wanita|||3 86,700 4 25,400 2 70,700 5 80,000 6 38,000 7 73,300 8 50,700 8 70,000 9 57,000|
+
 
 **Dafar Manfaat Melahirkan**
 
@@ -1186,13 +1201,15 @@ Wanita 957,000
 
 Note: dalam satuan Rupiah (IDR)
 
----
 
-| Keterangan tindakan | Diajukan  | Benefit   | Dibayar   | Ditolak   | Keterangan                                              |
-| ------------------- | --------- | --------- | --------- | --------- | ------------------------------------------------------- |
-| Melahirkan Normal   | 8.500.000 | 5.000.000 | 5.000.000 | 3.500.00  | Ben max                                                 |
-| Lain-lain           | 500.000   | 0         | 0         | 500.000   | pembalut maternity, bedung, pampers (non medis) uncover |
-| Total               | 9.000.000 | 5.000.000 | 5.000.000 | 4.000.000 |                                                         |
+-----
+
+|Keterangan tindakan|Diajukan|Benefit|Dibayar|Ditolak|Keterangan|
+|---|---|---|---|---|---|
+|Melahirkan Normal|8.500.000|5.000.000|5.000.000|3.500.00|Ben max|
+|Lain-lain|500.000|0|0|500.000|pembalut maternity, bedung, pampers (non medis) uncover|
+|Total|9.000.000|5.000.000|5.000.000|4.000.000||
+
 
 **Simulasi Pembayaran Manfaat Asuransi**
 
@@ -1211,7 +1228,7 @@ Insurance akan membayarkan klaim sesuai dengan rincian berikut:
 Klaim yang diajukan:
 Persalinan normal : Rp8.500.000
 Lain-lain
-(pembalut maternity, bedung, pampers) : Rp500.000
+(pembalut maternity, bedung, pampers) :   Rp500.000
 Total klaim yang diajukan : Rp9.000.000
 
 Klaim yang dibayarkan:
@@ -1238,77 +1255,68 @@ Telepon: 1-500-045
 Website: www.bni-life.co.id
 Email: care@bni-life.co.id
 
----
+
+-----
 
 **Informasi Tambahan**
+
 
 1. Berakhirnya Pertanggungan
 
 a. Kepesertaan Tertanggung Utama akan berakhir dengan kondisi sebagai berikut:
 
       -
-
 Pada tanggal dimana pembayaran Premi untuk Manfaat Asuransi dihentikan dengan alasan apapun atau
 
 tidak dibayarkan sampai dengan berakhirnya Masa Leluasa (Grace Period), atau;
 
       -
-
 Pada tanggal Polis Asuransi Kesehatan Kumpulan ini berakhir karena pembatalan yang dilakukan oleh
 
 Pemegang Polis ataupun oleh Penanggung atau tidak diperpanjang untuk tahun berikutnya, atau;
 
       -
-
 Pada akhir tahun Polis (sebelum Tanggal Mulai Berlaku Tahun Polis berikutnya) dimana Usia Tertanggung
 
 Utama mencapai batasan usia yang diperkenankan sebagaimana yang tercantum di dalam Ketentuan Khusus
 Polis ini , atau;
 
       -
-
 Pada saat Tertanggung Utama berhenti/ diberhentikan
 
       -
-
 Tertanggung Utama meninggal dunia, oleh Pemegang Polis atau tidak terdaftar lagi sebagai anggota dari
 
 Pemegang Polis, atau
 b. Kepesertaan Tertanggung Tambahan akan berakhir dengan kondisi sebagai berikut:
 
       -
-
 Pada tanggal dimana pembayaran Premi untuk Manfaat Asuransi dihentikan dengan alasan apapun atau
 
 tidak dibayarkan sampai dengan berakhirnya Masa Leluasa (Grace Period), atau
 
       -
-
 Pada tanggal Polis Asuransi Kesehatan Kumpulan ini berakhir karena pembatalan yang dilakukan oleh
 
 Pemegang Polis ataupun oleh Penanggung atau tidak diperpanjang untuk tahun berikutnya, atau
 
       -
-
 Pada akhir tahun Polis (sebelum Tanggal Mulai Berlaku Tahun Polis berikutnya) dimana Usia Tertanggung
 
 Tambahan mencapai batasan usia yang diperkenankan sebagaimana yang tercantum di dalam Ketentuan
 Khusus Polis ini, atau
 
       -
-
 Pada saat Tertanggung Utama meninggal dunia, berhenti/diberhentikan oleh Pemegang Polis atau tidak
 
 terdaftar lagi sebagai anggota dari Pemegang Polis, atau ;
 
       -
-
 Pada tanggal dimana Tertanggung Tambahan tidak lagi memenuhi syarat sebagai Tertanggung Tambahan,
 
 atau
 
       -
-
 Tertanggung Tambahan meninggal dunia
 Pasangan dan anak dari peserta otomatis akan keluar dari kepesertaan, jika peserta keluar dari Perusahaan.
 
@@ -1332,18 +1340,23 @@ dapat diakses melalui situs website resmi perusahaan PT BNI Life Insurance (www.
 
 telah terdaftar dan diawasi oleh OJK.
 
----
+
+-----
 
 **_Disclaimer (Penting untuk dibaca)_**
 
+
 1. Perusahaan Asuransi dapat menolak permohonan produk Anda apabila tidak memenuhi persyaratan dan peraturan yang
 
-berlaku 2. Anda harus membaca dengan teliti Ringkasan Informasi Produk dan Layanan ini dan berhak bertanya kepada pegawai
+berlaku
+2. Anda harus membaca dengan teliti Ringkasan Informasi Produk dan Layanan ini dan berhak bertanya kepada pegawai
 
 perusahaan Asuransi atas semua hal terkait Ringkasan Informasi Produk dan Layanan ini.
 
 Tanggal Cetak Dokumen:
 
-\_ _ / _ _ /_ \_ \_ \_
+_ _ / _ _ /_ _ _ _
 
----
+
+-----
+
