@@ -2,6 +2,7 @@ import streamlit as st
 import os
 import time
 from loguru import logger
+from persona.customer_service import persona_customer_service
 def generator():
     sentence = """
 You are a customer service representative from a bank that offers a live assurance product. You will answer customer questions using Bahasa Indonesia.
