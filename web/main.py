@@ -41,4 +41,4 @@ chat_input = st.chat_input("Ask your question here")
 if chat_input:
    st.chat_message("assistant").write_stream(generator())
 
-logger.info(os.listdir(os.getcwd()))
+logger.info(os.listdir(os.getcwd()), os.getcwd())
