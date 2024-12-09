@@ -15,7 +15,7 @@ def load_vector_db():
     return EmbeddingManager().get_vectordb()
 
 
-logger.info((os.listdir(os.getcwd()), os.getcwd()))
+
 
 if "chat_history" not in st.session_state:
     st.session_state["chat_history"] = []
