@@ -14,3 +14,4 @@ if __name__ == "__main__":
     
     embedding_manager = EmbeddingManager(chunks= document_chunk)
     embedding_manager.create_and_persist_embeddings()
+    embedding_manager.get_vectordb().get()

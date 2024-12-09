@@ -1,8 +1,3 @@
-import sys
-__import__('pysqlite3')
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
-
-
 from langchain_chroma import Chroma
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain.schema import Document
@@ -45,12 +40,13 @@ class EmbeddingManager:
             self.vectordb = Chroma(
                 collection_name="chatbot_bank_service",
                 embedding_function=self.embedding,
-                persist_directory="./chroma_langchain_db",  # Where to save data locally, remove if not necessary
+                persist_directory=self.persist_directory,  # Where to save data locally, remove if not necessary
             )
             logger.success(
                 "Success creating an instance of Chroma with the sections and the embeddings"
             )
             logger.info("Adding document to vectordb")
+            logger.info(self.chunks[0])
             self.vectordb.add_documents(self.chunks)
             logger.success("Success adding document to vectordb")
 

@@ -1,7 +1,7 @@
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_community.document_loaders import UnstructuredMarkdownLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-
+from loguru import logger
 class DocumentManager:
     def __init__(self, directory_path, glob_pattern="./*.md"):
         self.directory_path = directory_path
@@ -19,4 +19,5 @@ class DocumentManager:
         self.load_documents()
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
         chunks = text_splitter.split_documents(self.documents)
+        logger.info(chunks)
         return chunks
