@@ -6,6 +6,7 @@ sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 from langchain_chroma import Chroma
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain.schema import Document
+from scripts.credential import GEMINI_API_KEY
 from loguru import logger
 from os import path
 from shutil import rmtree
@@ -19,7 +20,7 @@ class EmbeddingManager:
         self.persist_directory = persist_directory
         self.vectordb = None
         self.embedding = embedding or GoogleGenerativeAIEmbeddings(
-            model="models/text-embedding-004"
+            model="models/text-embedding-004", google_api_key=GEMINI_API_KEY
         )
 
     def get_vectordb(self, **kwargs):

@@ -7,7 +7,7 @@ from scripts.embedding_manager import EmbeddingManager
 from scripts.retrieval_agent_manager import RetrievalAgentManager
 
 
-load_llm_env_key()
+
 __import__('pysqlite3')
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 

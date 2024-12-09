@@ -10,7 +10,7 @@ from langchain_core.documents import Document
 from langchain_chroma import Chroma
 from langgraph.graph import START, StateGraph
 from persona.customer_service import persona_customer_service
-
+from scripts.credential import GEMINI_API_KEY
 
 class State(TypedDict):
     question: str
@@ -40,6 +40,7 @@ class RetrievalAgentManager:
             max_tokens=self.llm_config.get("max_tokens"),
             top_p=self.llm_config.get("top_p"),
             top_k=self.llm_config.get("top_k"),
+            google_api_key = GEMINI_API_KEY
         )
         self.persona = custom_prompt or persona_customer_service
         self.prompt = PromptTemplate(
