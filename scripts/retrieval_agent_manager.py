@@ -25,7 +25,7 @@ class RetrievalAgentManager:
     ):
         self.vectordb = vectordb
         self.llm_config = llm_config or {
-            "temperature": 0.5,
+            "temperature": 0.2,
             "max_tokens": 2048,
             "top_p": 0.95,
             "top_k": 40,
@@ -44,21 +44,21 @@ class RetrievalAgentManager:
             input_variables=["question", "context"],
             template = (f"{self.persona}"
             "Question: {question}"
-            "Context: (context)"
+            "Context: {context}"
             "Answer:")
         ) 
 
     def retrieve(self, state: State):
         """Retrieve information related to a query."""
-        retrieved_docs = self.vectordb.similarity_search(state["question"], k=6)
+        retrieved_docs = self.vectordb.similarity_search(state["question"], k=4)
 
-        return {"context": retrieved_docs}
+        return {"context": "\n\n".join(doc.page_content for doc in retrieved_docs)}
 
     def generate(self, state: State):
-        docs_content = "\n\n".join(doc.page_content for doc in state["context"])
         messages = self.prompt.format(
-            question=state["question"], context=docs_content
+            question=state["question"], context=state["context"]
         )
+        logger.success(messages)
         response = self.llm.invoke(messages)
         return {"answer": response.content}
 
