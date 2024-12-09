@@ -50,7 +50,7 @@ class RetrievalAgentManager:
 
     def retrieve(self, state: State):
         """Retrieve information related to a query."""
-        retrieved_docs = self.vectordb.similarity_search(state["question"], k=11)
+        retrieved_docs = self.vectordb.similarity_search(state["question"], k=6)
 
         return {"context": retrieved_docs}
 
