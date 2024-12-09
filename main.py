@@ -2,7 +2,6 @@ import streamlit as st
 import os
 import sys
 from loguru import logger
-from scripts.credential import load_llm_env_key
 from scripts.embedding_manager import EmbeddingManager
 from scripts.retrieval_agent_manager import RetrievalAgentManager
 
