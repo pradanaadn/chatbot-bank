@@ -1,25 +1,31 @@
-from typing import Dict, List, Optional
+from typing import Dict, Optional, TypedDict, List
+from loguru import logger
 from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain.chains import ConversationalRetrievalChain
-from langchain.memory import ConversationBufferMemory
-from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
-from langchain.callbacks.base import BaseCallbackManager
-from langchain.prompts import PromptTemplate, ChatPromptTemplate
-
+from langchain.prompts import PromptTemplate
+from langchain_core.documents import Document
+from langchain_chroma import Chroma
+from langgraph.graph import START, StateGraph
 from persona.customer_service import persona_customer_service
+
+
+class State(TypedDict):
+    question: str
+    context: List[Document]
+    answer: str
+
 
 class RetrievalAgentManager:
     def __init__(
         self,
-        vector_db,
+        vectordb: Chroma,
         llm=None,
         llm_config: Optional[Dict] = None,
         custom_prompt: Optional[str] = None,
     ):
-        self.vectordb = vector_db
+        self.vectordb = vectordb
         self.llm_config = llm_config or {
-            "temperature": 0.7,
-            "max_tokens": 1024,
+            "temperature": 0.5,
+            "max_tokens": 2048,
             "top_p": 0.95,
             "top_k": 40,
         }
@@ -30,14 +36,40 @@ class RetrievalAgentManager:
             max_tokens=self.llm_config.get("max_tokens"),
             top_p=self.llm_config.get("top_p"),
             top_k=self.llm_config.get("top_k"),
-            
         )
         self.persona = custom_prompt or persona_customer_service
+        self.prompt = PromptTemplate(
+            input_variables=["question", "context"],
+            template = (f"{self.persona}"
+            "Question: {question}"
+            "Context: (context)"
+            "Answer:")
+        ) 
 
-    def query(self, query_text:str):
-        results = self.vectordb.similarity_search_with_relevance_scores(query_text, k=4)
-        context_text = "\n\n - -\n\n".join([doc.page_content for doc, _score in results])
-        prompt_template = ChatPromptTemplate.from_template(self.persona)
-        prompt = prompt_template.format(context=context_text, question=query_text)  
-        for chunk in self.llm.stream(prompt):
-            print(chunk.content)
+    def retrieve(self, state: State):
+        """Retrieve information related to a query."""
+        retrieved_docs = self.vectordb.similarity_search(state["question"], k=11)
+
+        return {"context": retrieved_docs}
+
+    def generate(self, state: State):
+        docs_content = "\n\n".join(doc.page_content for doc in state["context"])
+        messages = self.prompt.format(
+            question=state["question"], context=docs_content
+        )
+        response = self.llm.invoke(messages)
+        return {"answer": response.content}
+
+    def control_flow(self):
+        graph_builder = StateGraph(State).add_sequence([self.retrieve, self.generate])
+        graph_builder.add_edge(START, "retrieve")
+        graph = graph_builder.compile()
+        return graph
+
+    def generate_message(self, query):
+        graph = self.control_flow()
+        logger.info("Generate message")
+        response = graph.invoke({"question": query})
+        logger.success(response)
+        
+        return response["answer"]

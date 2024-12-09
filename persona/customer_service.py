@@ -12,5 +12,5 @@ Here are some important details to consider:
 
 Ensure to use Bahasa Indonesia.
 Finally, focus on providing clear and concise information, and ensure you maintain a polite and professional tone.
-Question: {question} \nContext: {context} \nAnswer:
+
 """

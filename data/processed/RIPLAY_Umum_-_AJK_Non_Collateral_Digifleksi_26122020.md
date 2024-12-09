@@ -1,6 +1,8 @@
 # RINGKASAN INFORMASI PRODUK DAN LAYANAN UMUM
 
-|Penanggung|PT BNI Life Insurance|Deskripsi Produk|BNI Life AJK Non Collateral (Digifleksi) merupakan produk asuransi yang memberikan perlindungan kepada Debitur dari Bank Negara Indonesia sebagai Tertanggung terhadap risiko Meninggal Dunia yang dipertanggungkan yang mungkin terjadi dalam Masa Asuransi.|
+|Penanggung|PT BNI Life Insurance|Deskripsi Produk|BNI Life AJK Non 
+
+Collateral (Digifleksi) merupakan produk asuransi yang memberikan perlindungan kepada Debitur dari Bank Negara Indonesia sebagai Tertanggung terhadap risiko Meninggal Dunia yang dipertanggungkan yang mungkin terjadi dalam Masa Asuransi.|
 |---|---|---|---|
 |Pemegang Polis|PT Bank Negara Indonesia, Tbk|||
 |Tertanggung|Debitur dari PT Bank Negara Indonesia, Tbk.|||
