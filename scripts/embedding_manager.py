@@ -14,7 +14,7 @@ from shutil import rmtree
 
 class EmbeddingManager:
     def __init__(
-        self, chunks: list[Document] = None, persist_directory="db", embedding=None
+        self, chunks: list[Document] = None, persist_directory="chroma_langchain_db", embedding=None
     ):
         self.chunks = chunks
         self.persist_directory = persist_directory

@@ -1,8 +1,5 @@
 from typing import Dict, Optional, TypedDict, List
 from loguru import logger
-import sys
-__import__('pysqlite3')
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.prompts import PromptTemplate
