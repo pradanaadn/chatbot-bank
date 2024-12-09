@@ -24,10 +24,11 @@ class EmbeddingManager:
         )
 
     def get_vectordb(self, **kwargs):
+        logger.info("Trying load the vectordb")
         self.vectordb = Chroma(
             persist_directory=self.persist_directory, embedding_function=self.embedding
         )
-        
+        logger.success("Success load vectordb")
         return self.vectordb
 
     # Method to create and persist embeddings
