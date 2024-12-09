@@ -1,5 +1,6 @@
 import streamlit as st
 import os
+import sys
 from loguru import logger
 from scripts.credential import load_llm_env_key
 from scripts.embedding_manager import EmbeddingManager
@@ -7,7 +8,8 @@ from scripts.retrieval_agent_manager import RetrievalAgentManager
 
 
 load_llm_env_key()
-
+__import__('pysqlite3')
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 @st.cache_resource()
 def load_vector_db():
