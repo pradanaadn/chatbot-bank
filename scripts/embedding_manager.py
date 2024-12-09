@@ -1,6 +1,7 @@
 import sys
-__import__('pysqlite3')
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
+__import__("pysqlite3")
+sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
 
 
 from langchain_chroma import Chroma
@@ -14,7 +15,10 @@ from shutil import rmtree
 
 class EmbeddingManager:
     def __init__(
-        self, chunks: list[Document] = None, persist_directory="chroma_langchain_db", embedding=None
+        self,
+        chunks: list[Document] = None,
+        persist_directory="chroma_langchain_db",
+        embedding=None,
     ):
         self.chunks = chunks
         self.persist_directory = persist_directory
@@ -26,7 +30,9 @@ class EmbeddingManager:
     def get_vectordb(self, **kwargs):
         logger.info("Trying load the vectordb")
         self.vectordb = Chroma(
-            persist_directory=self.persist_directory, embedding_function=self.embedding
+            collection_name="chatbot_bank_service",
+            persist_directory=self.persist_directory,
+            embedding_function=self.embedding,
         )
         logger.success("Success load vectordb")
         return self.vectordb
